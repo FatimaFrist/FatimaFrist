@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm FRIST Fatima</h1>
 <h3 align="center">Web & Mobile Developer</h3>
-
+<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimafrist&label=Profile%20views&color=d80e0e&style=flat" alt="fatimafrist" /> </p>
 
 - 📫 How to reach me **fatytima72@gmail.com**
