@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatimafrist&show_icons=true&theme=radical&locale=en" alt="fatimafrist" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatimafrist&theme=dark" alt="fatimafrist" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatimafrist&theme=radical" alt="fatimafrist" /></p>
