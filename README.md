@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FRIST Fatima</h1>
-<h3 align="center">Web & Mobile Developer</h3>
+<h3 align="center">I'm currently in my second year of a Master’s program specializing in Big Data and Artificial Intelligence </h3>
 <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimafrist&label=Profile%20views&color=d80e0e&style=flat" alt="fatimafrist" /> </p>
 
