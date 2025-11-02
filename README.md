@@ -43,7 +43,7 @@
   <img src="https://skillicons.dev/icons?i=git" height="48" style="transition:0.2s;"/>
   <img src="https://skillicons.dev/icons?i=firebase" height="48" style="transition:0.2s;"/>
 </p>
----
+
 
 ### GitHub Stats
 <p>
