@@ -13,17 +13,9 @@
 ---
 
 ### Tech Stack
-
-**Languages**
 <img src="https://skillicons.dev/icons?i=python,java,php" height="35"/>
-
-**Frameworks**
 <img src="https://skillicons.dev/icons?i=laravel,flutter" height="35"/>
-
-**Databases**
 <img src="https://skillicons.dev/icons?i=mysql" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="35"/>
-
-**Tools**
 <img src="https://skillicons.dev/icons?i=git,androidstudio" height="35"/>
 
 
