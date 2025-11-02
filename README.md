@@ -32,11 +32,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git" height="48" style="margin:5px; transition:0.2s;"/>
 </p>
-
-<style>
-img:hover { transform: scale(1.2); }
-</style>
-
 ---
 
 ### GitHub Stats
