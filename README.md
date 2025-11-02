@@ -13,25 +13,33 @@
 ---
 
 ### Tech Stack
+<h2 align="left">🧰 Tech Stack</h2>
+
+<!-- Frontend -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,vue" height="48" style="margin:5px; transition:0.2s;"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,vue" height="48" style="margin:5px;"/>
 </p>
 
+<!-- Backend -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,java,python" height="48" style="margin:5px; transition:0.2s;"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,java,python" height="48" style="margin:5px;"/>
 </p>
 
+<!-- Databases -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" height="48" style="margin:5px; transition:0.2s;"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" height="48" style="margin:5px;"/>
 </p>
 
+<!-- Mobile Development -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter" height="48" style="margin:5px; transition:0.2s;"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter" height="48" style="margin:5px;"/>
 </p>
 
+<!-- Tools / Version Control -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="48" style="margin:5px; transition:0.2s;"/>
+  <img src="https://skillicons.dev/icons?i=git" height="48" style="margin:5px;"/>
 </p>
+
 ---
 
 ### GitHub Stats
