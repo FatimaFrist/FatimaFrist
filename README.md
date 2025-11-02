@@ -9,7 +9,6 @@
 
 - Email: **fatytima72@gmail.com**
 - Focus: Data Engineering, Machine Learning, Back-end Systems
-- Technologies: Python, Laravel, Flutter, SQL/NoSQL, Docker, Git
 
 ---
 
