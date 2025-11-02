@@ -81,10 +81,6 @@
     <img src="https://skillicons.dev/icons?i=git" height="48"/>
   </span>
 </p>
-
-<style>
-span img:hover { transform: scale(1.2); transition: 0.2s; }
-</style>
 ---
 
 ### GitHub Stats
