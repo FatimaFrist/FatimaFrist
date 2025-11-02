@@ -14,29 +14,35 @@
 
 ### Tech Stack
 <h2 align="left">🧰 Tech Stack</h2>
-
 <p align="center" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;">
+  <!-- Mobile & IDE -->
   <img src="https://skillicons.dev/icons?i=androidstudio" height="48" style="transition:0.2s;"/>
+  <img src="https://skillicons.dev/icons?i=flutter" height="48" style="transition:0.2s;"/>
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html" height="48" style="transition:0.2s;"/>
   <img src="https://skillicons.dev/icons?i=css" height="48" style="transition:0.2s;"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" height="48" style="transition:0.2s;"/>
-  <img src="https://skillicons.dev/icons?i=firebase" height="48" style="transition:0.2s;"/>
-  <img src="https://skillicons.dev/icons?i=flutter" height="48" style="transition:0.2s;"/>
-  <img src="https://skillicons.dev/icons?i=git" height="48" style="transition:0.2s;"/>
-  <img src="https://skillicons.dev/icons?i=laravel" height="48" style="transition:0.2s;"/>
-  <img src="https://skillicons.dev/icons?i=html" height="48" style="transition:0.2s;"/>
-  <img src="https://skillicons.dev/icons?i=java" height="48" style="transition:0.2s;"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="48" style="transition:0.2s;"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="48" style="transition:0.2s;"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="48" style="transition:0.2s;"/>
   <img src="https://skillicons.dev/icons?i=tailwind" height="48" style="transition:0.2s;"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="48" style="transition:0.2s;"/>
-  <img src="https://skillicons.dev/icons?i=php" height="48" style="transition:0.2s;"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="48" style="transition:0.2s;"/>
-  <img src="https://skillicons.dev/icons?i=python" height="48" style="transition:0.2s;"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="48" style="transition:0.2s;"/>
   <img src="https://skillicons.dev/icons?i=vue" height="48" style="transition:0.2s;"/>
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=php" height="48" style="transition:0.2s;"/>
+  <img src="https://skillicons.dev/icons?i=laravel" height="48" style="transition:0.2s;"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" style="transition:0.2s;"/>
+  <img src="https://skillicons.dev/icons?i=java" height="48" style="transition:0.2s;"/>
+  <img src="https://skillicons.dev/icons?i=python" height="48" style="transition:0.2s;"/>
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" style="transition:0.2s;"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="48" style="transition:0.2s;"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="48" style="transition:0.2s;"/>
+
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=git" height="48" style="transition:0.2s;"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="48" style="transition:0.2s;"/>
 </p>
-
-
 ---
 
 ### GitHub Stats
