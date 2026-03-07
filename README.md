@@ -43,10 +43,3 @@
   <img src="https://skillicons.dev/icons?i=git" height="48" style="transition:0.2s;"/>
   <img src="https://skillicons.dev/icons?i=firebase" height="48" style="transition:0.2s;"/>
 </p>
-
-
-### GitHub Stats
-<p>
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatimafrist&layout=compact&theme=radical"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatimafrist&theme=radical"/>
-</p>
